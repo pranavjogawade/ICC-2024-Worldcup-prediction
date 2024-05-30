@@ -1,4 +1,4 @@
-# ICC-2023-Worldcup-prediction
+# ICC-2024-Worldcup-prediction
 ## Predicting the winner of 2023 cricket world cup using random forest algorithm
 
 ![](./wc.png)
